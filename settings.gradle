@@ -1,3 +1,2 @@
 include ':app'
-include ':visionml3_4_1'
 include ':visionml4_0_1'
