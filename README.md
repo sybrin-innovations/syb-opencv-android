@@ -43,3 +43,4 @@ else
    Log.d("OpenCv", "OpenCV loaded");
 ```
 
+
